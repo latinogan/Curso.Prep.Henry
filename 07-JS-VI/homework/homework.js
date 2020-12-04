@@ -2,6 +2,8 @@
 
 function invocarCallback(cb) {
   // Invoca al callback `cb`
+
+  return cb (); 
 }
 
 function sumarArray(numeros, cb) {
