@@ -1,0 +1,30 @@
+<style>
+	h1{
+	color:red;
+	}
+
+     img{
+     	width: 315px;
+     }
+     
+     #thirdDiv{
+     	height: 600px;
+     	width:500px;
+     	background-color: red;
+     	padding: 50px;
+     	border:10px solid blue;
+     }
+     
+
+     #spanId{
+     	front-size:18px;
+     	margin:50px;
+     }
+
+     .divClass{
+          background: yellow;
+         }
+
+</style>
+
+       
